@@ -1,0 +1,19 @@
+{
+  "name": "contender-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Henry Desroches <yo@henry.codes> (https://henry.codes/)",
+  "license": "ISC",
+  "devDependencies": {
+    "marked": "^0.8.0",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.24.2"
+  }
+}
