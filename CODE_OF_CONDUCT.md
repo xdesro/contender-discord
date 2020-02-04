@@ -4,6 +4,10 @@ All participants of the Contender Discord community are expected to abide by our
 
 _Not a member yet? [Join us. ⟶](https://a.contender.pizza/discord)_
 
+## Membership Requirements
+
+All participants must verify their profile with a Twitter account. That account need not be public, but it is preferred that the account be following the [@cntndrco](https://twitter.com/cntndrco). This helps us keep out folks who join to grief or otherwise route abuse through the community. If you need an exception to this rule, reach out to one of the mods and we'll work with you to find a solution!
+
 ## The Pledge
 
 In the interest of fostering an open and welcoming environment, we pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
